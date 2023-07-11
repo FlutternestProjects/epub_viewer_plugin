@@ -122,6 +122,10 @@ xdg_directories
 2.12
 file:///Users/iamsahilsonawane/.pub-cache/hosted/pub.dev/xdg_directories-0.2.0/
 file:///Users/iamsahilsonawane/.pub-cache/hosted/pub.dev/xdg_directories-0.2.0/lib/
+vocsy_epub_viewer
+2.12
+file:///Users/iamsahilsonawane/Desktop/epub_viewer_plugin/
+file:///Users/iamsahilsonawane/Desktop/epub_viewer_plugin/lib/
 sky_engine
 2.12
 file:///Users/iamsahilsonawane/Development/flutter/bin/cache/pkg/sky_engine/
@@ -134,8 +138,4 @@ flutter_test
 2.17
 file:///Users/iamsahilsonawane/Development/flutter/packages/flutter_test/
 file:///Users/iamsahilsonawane/Development/flutter/packages/flutter_test/lib/
-vocsy_epub_viewer
-2.12
-file:///Users/iamsahilsonawane/Downloads/vocsy_epub_viewer-main/
-file:///Users/iamsahilsonawane/Downloads/vocsy_epub_viewer-main/lib/
 2
