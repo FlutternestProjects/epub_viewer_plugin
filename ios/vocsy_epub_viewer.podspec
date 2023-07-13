@@ -20,7 +20,7 @@ A new flutter plugin project.
 
   s.dependency 'Flutter'
   
-  s.dependency 'NFolioReaderKit'
+  s.dependency 'FNFolioReaderKit'
   s.platform = :ios, '14.0'
 
 end
